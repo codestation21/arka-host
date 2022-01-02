@@ -24,7 +24,7 @@ open index.html
 ```
 ## Screenshots
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/Arka%20Host.jpeg?alt=media&token=bb8dad66-3d1e-4ad7-8afb-401d0f12d7ad)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/arka%20host.png?alt=media&token=1400d62d-72b5-46d3-a02c-819ea641c4f8)
 
 
 
